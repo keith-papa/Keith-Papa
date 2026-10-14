@@ -1,2 +1,26 @@
 # Keith-Papa
-Hi, I’m Keith 👋 Aspiring AI &amp; cybersecurity professional exploring tech, economics and impact.
+Hi, I’m Keith  Aspiring AI &amp; cybersecurity professional exploring tech, economics and impact.
+
+**Tech × Economics × Impact** 
+
+I'm an aspiring AI and cybersecurity professional. My journey started with robotics and coding in hackathons, and I'm now going deeper into machine learning, data analytics and security, while learning German to build a career in Germany. Long term, I want to become a philanthropist and speaker who educates and uplifts people through technology and economic knowledge.
+
+## What I'm working on
+- Building foundations in Python, data analysis and machine learning
+- Learning cybersecurity fundamentals (networking, Linux, ethical hacking labs)
+
+## Currently learning
+- Python · Git/GitHub · SQL
+- Machine learning basics
+- Cybersecurity fundamentals
+- World economics and crypto markets
+
+## Goals
+- Land an entry-level or internship role in AI, data or cybersecurity
+- Contribute to open-source projects
+- Give my first public talk
+
+## Let's connect
+-  X: www.x.com/papakeith01/
+-  LinkedIn: www.linkedin.com/in/keithpapa
+-  Email: papakeith120@gmail.com
